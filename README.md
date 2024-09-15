@@ -1,15 +1,10 @@
-## RestaurantWheel
+## Mom's Tiffin
 - A Corporate Tiffin service website with the facility of Table Reservation.
 - Basically it is a corporate tiffin service template which provide online order with different menu on everyday basis, it can help lots of people who work at the office and want to eat something different but home healthy food.
 
-## Table of contents
-- [About RestaurantWheel](#about-restaurantwheel)
-- [Responsibility](#responsibility)
-- [Screenshots](#screenshots)
-- [Dependencies](#dependencies)
-- [Live Project](#live-project)
 
-### About RestaurantWheel
+
+### About Mom's Tiffin
 - This website based on a corporate tiffin service, it's have the facility of online food and snacks ordering so user don't need to hustle in the queue for lunch or favourite snacks, and It's also have feature of table booking in case you have urgent meeting than book a table for you and meet whoever you want to.
 
 ### Responsibility
@@ -62,8 +57,7 @@
 - [Owl carousel](https://owlcarousel2.github.io/OwlCarousel2/demos/responsive.html) <br/>
 - [Wow Js](http://mynameismatthieu.com/WOW/) <br/>
 
-## Live Project
-- [Restaurant Wheel](https://pras75299.github.io/RestaurantWheel/)
+
 
 
 
